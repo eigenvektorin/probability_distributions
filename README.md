@@ -4,9 +4,7 @@ This project provides classes for calculating and visualizing Gaussian and Binom
 
 # Installation
 
-Dependencies
-
-requires:
+## Requirements:
 python == 3.9
 matplotlib == 3.4.2
 numpy == 1.21.1
